@@ -9,6 +9,6 @@ the goal is to build a end to end Machine Learning Project and deploy it using F
 2. Install dependencies
 
 ```
-python -m pip install requirement.txt
+python -m pip install -r requirement.txt
 
 ```
