@@ -5,14 +5,21 @@ the goal is to build a end to end Machine Learning Project and deploy it using F
 
 # Information
 
-you can explore the
+you can explore the data exploration and training of the model in CarClassifier.ipynb
 
 ## INSTALLATION
 
 1. Clone the repo
-2. Install dependencies
+
+`> git clone https://github.com/bahkali/Car-Predictor.git`
+
+2. Create envirment before installing any dependency
 
 ```
-python -m pip install -r requirement.txt
-
+>conda create venv python=3.7
+>conda activate venv
 ```
+
+3. Install dependencies
+
+`python -m pip install -r requirement.txt`
