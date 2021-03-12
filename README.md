@@ -3,6 +3,10 @@
 Using Kaggel dataset to create a model to predict car
 the goal is to build a end to end Machine Learning Project and deploy it using Flask
 
+# Information
+
+you can explore the
+
 ## INSTALLATION
 
 1. Clone the repo
